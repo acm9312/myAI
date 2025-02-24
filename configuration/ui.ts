@@ -1,6 +1,6 @@
 import { AI_NAME, OWNER_NAME } from "@/configuration/identity";
 
-export const CHAT_HEADER: string = `Time to Chat`;
+export const CHAT_HEADER: string = `Go On, Type Something`;
 export const MESSAGE_PLACEHOLDER: string = `[MESSAGE PLACEHOLDER]`;
 export const FOOTER_MESSAGE: string = `AI by Anthony`;
 export const CLEAR_BUTTON_TEXT: string = `Clear Chat`;
